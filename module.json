@@ -1,0 +1,25 @@
+{
+  "id": "TraducaoFoundryPTBR",
+  "title": "Tradução Foundry PT-BR",
+  "description": "Módulo de tradução automática via Babele para o Foundry VTT.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Gabriel"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "scripts": ["scripts/register.js"],
+  "languages": [
+    {
+      "lang": "pt_BR",
+      "name": "Português (Brasil)",
+      "path": "lang/pt_BR.json"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/egabrielveit/TraducaoFoundryPTBR/main/module.json",
+  "download": "https://github.com/egabrielveit/TraducaoFoundryPTBR/archive/refs/heads/main.zip"
+}

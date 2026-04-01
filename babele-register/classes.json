@@ -1,0 +1,173 @@
+{
+  "label": "Classes",
+  "entries": [
+    {
+      "id": "Arcanist",
+      "name": "Arcanista",
+      "summary": { "value": "O coração é o meu guia." },
+      "description": "<h5><strong>TAMBÉM: Arauto, Invocador, Escolhido</strong></h5><p>Os <strong>Arcanistas</strong> vinculam suas almas a entidades poderosas chamadas Arcanos, que representam grandes ideais ou conceitos cósmicos.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO ARCANISTA</strong></h5><ul><li>Aumente permanentemente seus PM máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Chanter",
+      "name": "Virtuoso",
+      "summary": { "value": "Siga o ritmo do meu coração!" },
+      "description": "<h5><strong>TAMBÉM: Bardo, Cantor, Menestrel</strong></h5><p>Os <strong>Virtuosos</strong> usam o poder das canções e do som para inspirar seus aliados e confundir seus inimigos no campo de batalha.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO VIRTUOSO</strong></h5><ul><li>Aumente permanentemente seus PM máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Commander",
+      "name": "Comandante",
+      "summary": { "value": "Aprendam com a derrota de seus aliados!" },
+      "description": "<h5><strong>TAMBÉM: Almirante, Estrategista, Marechal</strong></h5><p><strong>Comandantes</strong> são mestres da tática, capazes de guiar seus companheiros para a vitória através de ordens precisas.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO COMANDANTE</strong></h5><ul><li>Aumente permanentemente seus PV máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Dancer",
+      "name": "Dançarino",
+      "summary": { "value": "Um, dois, três... e tchau!" },
+      "description": "<h5><strong>TAMBÉM: Artista, Dançarino da Lâmina, Ídolo</strong></h5><p><strong>Dançarinos</strong> transformam o movimento em arte e combate, usando a graça para evocar efeitos mágicos.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO DANÇARINO</strong></h5><ul><li>Aumente permanentemente seus PV máximos ou PM máximos em 5 (escolha sua).</li></ul>"
+    },
+    {
+      "id": "Dark Knight",
+      "name": "Cavaleiro Sombrio",
+      "summary": { "value": "Pela minha dor, você conhecerá o medo." },
+      "description": "<h5><strong>TAMBÉM: Executor, Cavaleiro do Caos, Vingador</strong></h5><p>Os <strong>Cavaleiros Sombrios</strong> usam o próprio sofrimento como combustível para ataques devastadores.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO CAVALEIRO SOMBRIO</strong></h5><ul><li>Aumente permanentemente seus PV máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Elementalist",
+      "name": "Elementalista",
+      "summary": { "value": "As chamas obedecem ao meu comando!" },
+      "description": "<h5><strong>TAMBÉM: Feiticeiro, Mago de Batalha, Místico</strong></h5><p>O <strong>Elementalista</strong> domina os elementos primordiais — ar, terra, fogo e água.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO ELEMENTALISTA</strong></h5><ul><li>Aumente permanentemente seus PM máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Entropist",
+      "name": "Entropista",
+      "summary": { "value": "Tudo termina em cinzas." },
+      "description": "<h5><strong>TAMBÉM: Diabolista, Mago Negro, Niilista</strong></h5><p>O <strong>Entropista</strong> estuda as forças do caos e da destruição, manipulando a energia pura da entropia.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO ENTROPISTA</strong></h5><ul><li>Aumente permanentemente seus PM máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Esper",
+      "name": "Esper",
+      "summary": { "value": "Posso sentir seus pensamentos... eles me dão nojo." },
+      "description": "<h5><strong>TAMBÉM: Mentalista, Psion, Telepata</strong></h5><p><strong>Espers</strong> despertaram o poder latente da mente, realizando feitos que desafiam a lógica e a física.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO ESPER</strong></h5><ul><li>Aumente permanentemente seus PM máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Floralist",
+      "name": "Floralista",
+      "summary": { "value": "Toda vida merece florescer." },
+      "description": "<h5><strong>TAMBÉM: Botânico, Herborista, Jardineiro</strong></h5><p><strong>Floralistas</strong> cultivam plantas mágicas para curar aliados e criar jardins de suporte.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO FLORALISTA</strong></h5><ul><li>Aumente permanentemente seus PV máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Fury",
+      "name": "Fúria",
+      "summary": { "value": "Não teste a minha paciência." },
+      "description": "<h5><strong>TAMBÉM: Bárbaro, Berserker, Guerreiro Selvagem</strong></h5><p>O <strong>Fúria</strong> canaliza sua raiva interior em força bruta, tornando-se uma força imparável.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO FÚRIA</strong></h5><ul><li>Aumente permanentemente seus PV máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Gourmet",
+      "name": "Gourmet",
+      "summary": { "value": "Isso precisa de uma pitada de... aventura!" },
+      "description": "<h5><strong>TAMBÉM: Chef, Cozinheiro, Sommelier</strong></h5><p>O <strong>Gourmet</strong> transforma ingredientes raros em pratos mágicos que fortalecem o corpo e a alma.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO GOURMET</strong></h5><ul><li>Aumente permanentemente seus PV máximos ou PM máximos em 5 (escolha sua).</li></ul>"
+    },
+    {
+      "id": "Guardian",
+      "name": "Guardião",
+      "summary": { "value": "Eu serei o seu escudo." },
+      "description": "<h5><strong>TAMBÉM: Cavaleiro, Paladino, Protetor</strong></h5><p>O <strong>Guardião</strong> é o escudo que protege os fracos, focando em defesa pesada.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO GUARDIÃO</strong></h5><ul><li>Aumente permanentemente seus PV máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Invoker",
+      "name": "Invocador",
+      "summary": { "value": "Ouça o meu chamado!" },
+      "description": "<h5><strong>TAMBÉM: Druida, Ritualista, Xamã</strong></h5><p>O <strong>Invocador</strong> chama os espíritos elementais presentes no ambiente para manifestar magias rápidas.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO INVOCADOR</strong></h5><ul><li>Aumente permanentemente seus PM máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Loremaster",
+      "name": "Sábio",
+      "summary": { "value": "O conhecimento é a chave para a vitória." },
+      "description": "<h5><strong>TAMBÉM: Bibliotecário, Erudito, Investigador</strong></h5><p>O <strong>Sábio</strong> busca o conhecimento oculto, usando sua inteligência para identificar fraquezas.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO SÁBIO</strong></h5><ul><li>Aumente permanentemente seus PM máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Master Thief",
+      "name": "Ladroeiro",
+      "summary": { "value": "O que é seu, agora é meu." },
+      "description": "<h5><strong>TAMBÉM: Gatuno, Infiltrador, Saqueador</strong></h5><p>O <strong>Ladroeiro</strong> é mestre da furtividade e agilidade, capaz de obter o que deseja sem ser detectado.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO LADROEIRO</strong></h5><ul><li>Aumente permanentemente seu estoque máximo de PI em 2.</li></ul>"
+    },
+    {
+      "id": "Merchant",
+      "name": "Mercador",
+      "summary": { "value": "Tudo tem um preço, basta saber negociar." },
+      "description": "<h5><strong>TAMBÉM: Alquimista, Comerciante, Magnata</strong></h5><p>O <strong>Mercador</strong> entende o valor de tudo e usa riquezas para influenciar o destino.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO MERCADOR</strong></h5><ul><li>Aumente permanentemente seu estoque máximo de PI em 2.</li></ul>"
+    },
+    {
+      "id": "Mutant",
+      "name": "Mutante",
+      "summary": { "value": "Minha carne é meu laboratório." },
+      "description": "<h5><strong>TAMBÉM: Aberração, Bio-Hacker, Experimento</strong></h5><p><strong>Mutantes</strong> alteraram sua biologia, adaptando seus corpos com mutações físicas.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO MUTANTE</strong></h5><ul><li>Aumente permanentemente seus PV máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Orator",
+      "name": "Orador",
+      "summary": { "value": "As palavras moldam o mundo." },
+      "description": "<h5><strong>TAMBÉM: Diplomata, Líder, Político</strong></h5><p>O <strong>Orador</strong> usa o poder das palavras para resolver conflitos e convencer outros.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO ORADOR</strong></h5><ul><li>Aumente permanentemente seus PM máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Pilot",
+      "name": "Piloto",
+      "summary": { "value": "Segurem-se firme, vai balançar!" },
+      "description": "<h5><strong>TAMBÉM: Maquinista, Motorista, Operador de Mecha</strong></h5><p>O <strong>Piloto</strong> é mestre em operar máquinas complexas e veículos de combate.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO PILOTO</strong></h5><ul><li>Aumente permanentemente seus PV máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Rogue",
+      "name": "Surrupiador",
+      "summary": { "value": "A sorte favorece os audazes." },
+      "description": "<h5><strong>TAMBÉM: Assassino, Malandro, Mercenário</strong></h5><p>O <strong>Surrupiador</strong> sobrevive através de truques sujos e velocidade extrema.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO SURRUPIADOR</strong></h5><ul><li>Aumente permanentemente seu estoque máximo de PI em 2.</li></ul>"
+    },
+    {
+      "id": "Sharpshooter",
+      "name": "Atirador",
+      "summary": { "value": "Um tiro, um destino." },
+      "description": "<h5><strong>TAMBÉM: Arqueiro, Franco-atirador, Mosqueteiro</strong></h5><p>O <strong>Atirador</strong> domina as armas à distância com precisão absoluta.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO ATIRADOR</strong></h5><ul><li>Aumente permanentemente seus PV máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Spiritist",
+      "name": "Espiritista",
+      "summary": { "value": "A luz guiará nossas almas." },
+      "description": "<h5><strong>TAMBÉM: Clérigo, Curandeiro, Vidente</strong></h5><p>O <strong>Espiritista</strong> se conecta com o fluxo vital das almas para curar e proteger.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO ESPIRITISTA</strong></h5><ul><li>Aumente permanentemente seus PM máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Symbolist",
+      "name": "Simbolista",
+      "summary": { "value": "A caneta é mais forte que a espada." },
+      "description": "<h5><strong>TAMBÉM: Calígrafo, Escriba, Gravador</strong></h5><p>O <strong>Simbolista</strong> usa símbolos mágicos para imbuir seres e objetos com poderes.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO SIMBOLISTA</strong></h5><ul><li>Aumente permanentemente seus PM máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Tinkerer",
+      "name": "Inventor",
+      "summary": { "value": "A ciência resolve qualquer problema!" },
+      "description": "<h5><strong>TAMBÉM: Alquimista, Engenheiro, Ferreiro</strong></h5><p>O <strong>Inventor</strong> é mestre da criação, fabricando engenhocas e poções.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO INVENTOR</strong></h5><ul><li>Aumente permanentemente seu estoque máximo de PI em 2.</li></ul>"
+    },
+    {
+      "id": "Wayfarer",
+      "name": "Andarilho",
+      "summary": { "value": "Onde outros veem perigo, eu vejo um caminho." },
+      "description": "<h5><strong>TAMBÉM: Caçador, Explorador, Mateiro</strong></h5><p>O <strong>Andarilho</strong> é mestre em sobreviver e guiar aliados através de perigos naturais.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO ANDARILHO</strong></h5><ul><li>Aumente permanentemente seus PV máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Weaponmaster",
+      "name": "Mestre de Armas",
+      "summary": { "value": "Minha lâmina nunca falha." },
+      "description": "<h5><strong>TAMBÉM: Duelista, Gladiador, Soldado</strong></h5><p>O <strong>Mestre de Armas</strong> dedicou sua vida ao domínio técnico de armas de combate próximo.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO MESTRE DE ARMAS</strong></h5><ul><li>Aumente permanentemente seus PV máximos em 5.</li></ul>"
+    },
+    {
+      "id": "Ace of Cards",
+      "name": "Ás",
+      "summary": { "value": "Em resposta, eu ativo minha carta virada!" },
+      "description": "<h5><strong>TAMBÉM: Duelista do Destino, Invocador de Cartas</strong></h5><p>Os <strong>Ases</strong> utilizam baralhos especiais para perceber o fluxo das almas.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO ÁS</strong></h5><ul><li>Aumente permanentemente seus PV máximos ou PM máximos em 5 (escolha sua).</li></ul>"
+    },
+    {
+      "id": "Necromancer",
+      "name": "Necromante",
+      "summary": { "value": "A morte é apenas um recomeço." },
+      "description": "<h5><strong>TAMBÉM: Ceifador, Mestre das Sombras, Mortualista</strong></h5><p>O <strong>Necromante</strong> manipula as energias da morte e o destino das almas partidas.</p><hr /><h5><strong>BENEFÍCIOS GRATUITOS DO NECROMANTE</strong></h5><ul><li>Aumente permanentemente seus PM máximos em 5.</li></ul>"
+    }
+  ]
+}
