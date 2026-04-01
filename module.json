@@ -2,12 +2,23 @@
   "id": "fabula-ultima-pt-br-jambo",
   "title": "Fabula Ultima PT-BR (Jambo)",
   "description": "Tradução oficial baseada nos livros da Jambo Editora.",
-  "authors": [{ "name": "Gabriel Veit" }],
+  "authors": [
+    {
+      "name": "Gabriel Veit"
+    }
+  ],
   "version": "1.0.0",
-  "compatibility": { "minimum": "11", "verified": "12" },
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
   "system": ["projectfu"],
   "relationships": {
-    "requires": [{ "id": "babele" }]
+    "requires": [
+      {
+        "id": "babele"
+      }
+    ]
   },
   "url": "https://github.com/egabrielveit/TraducaoFoundryPTBR",
   "manifest": "https://raw.githubusercontent.com/egabrielveit/TraducaoFoundryPTBR/main/module.json",
