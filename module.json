@@ -1,25 +1,22 @@
 {
-  "id": "TraducaoFoundryPTBR",
-  "title": "Tradução Foundry PT-BR",
-  "description": "Módulo de tradução automática via Babele para o Foundry VTT.",
+  "id": "fabula-ultima-pt-br-jambo",
+  "title": "Fabula Ultima PT-BR (Jambo)",
+  "description": "Tradução oficial baseada nos livros da Jambo Editora.",
+  "authors": [{ "name": "Gabriel Veit" }],
   "version": "1.0.0",
-  "authors": [
-    {
-      "name": "Gabriel"
-    }
-  ],
-  "compatibility": {
-    "minimum": "11",
-    "verified": "12"
+  "compatibility": { "minimum": "11", "verified": "12" },
+  "system": ["projectfu"],
+  "relationships": {
+    "requires": [{ "id": "babele" }]
   },
-  "scripts": ["scripts/register.js"],
+  "url": "https://github.com/egabrielveit/TraducaoFoundryPTBR",
+  "manifest": "https://raw.githubusercontent.com/egabrielveit/TraducaoFoundryPTBR/main/module.json",
+  "download": "https://github.com/egabrielveit/TraducaoFoundryPTBR/archive/refs/heads/main.zip",
   "languages": [
     {
-      "lang": "pt_BR",
+      "lang": "pt-BR",
       "name": "Português (Brasil)",
       "path": "lang/pt_BR.json"
     }
-  ],
-  "manifest": "https://raw.githubusercontent.com/egabrielveit/TraducaoFoundryPTBR/main/module.json",
-  "download": "https://github.com/egabrielveit/TraducaoFoundryPTBR/archive/refs/heads/main.zip"
+  ]
 }

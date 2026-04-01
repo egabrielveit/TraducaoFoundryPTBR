@@ -1,12 +1,9 @@
 {
     "label": "Fabula Ultima PT-BR (Jambo)",
-    "types": [
-        "Item",
-        "Actor"
-    ],
+    "types": ["Item", "Actor"],
     "languages": [
         {
-            "lang": "pt_BR",
+            "lang": "pt-BR",
             "name": "Português (Brasil)",
             "path": "babele-register"
         }
