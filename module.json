@@ -1,7 +1,7 @@
 {
   "id": "traducao-fabula-ultima-ptbr",
   "title": "Fabula Ultima PT-BR (Babele)",
-  "description": "Tradução completa para o sistema ProjectFU.",
+  "description": "Tradução completa para o sistema ProjectFU, incluindo compêndios e interface.",
   "version": "1.1.0",
   "author": "Gabriel Veit",
   "manifest": "https://raw.githubusercontent.com/egabrielveit/TraducaoFoundryPTBR/main/module.json",
@@ -11,8 +11,18 @@
     "verified": "13"
   },
   "relationships": {
-    "systems": [{ "id": "projectfu" }],
-    "modules": [{ "id": "babele" }]
+    "systems": [
+      {
+        "id": "projectfu"
+      }
+    ],
+    "modules": [
+      {
+        "id": "babele",
+        "reason": "Necessário para processar e aplicar os arquivos de tradução nos compêndios.",
+        "compatibility": ">=1.0.0"
+      }
+    ]
   },
   "esmodules": ["babele-register.js"],
   "flags": {
