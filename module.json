@@ -20,7 +20,7 @@
       {
         "id": "babele",
         "reason": "Necessário para processar e aplicar os arquivos de tradução nos compêndios.",
-        "compatibility": ">=1.0.0"
+        "compatibility": ">=1.0.1"
       }
     ]
   },
